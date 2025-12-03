@@ -22,14 +22,22 @@ All records are stored in a plain text file: `furever_diary.txt`.
 ## ₊˚ ┊ Project Structure
 
 📂 src/
+
 └── 📂 fureverhome/
-├── ☕ Main.java # Entry point with console menu
-├── ☕ Diary.java # Handles CRUD operations
-├── ☕ RecordEntry.java # Abstract superclass for records
-├── ☕ PetEntry.java # Pet record subclass
-├── ☕ AdoptionEntry.java # Adoption record subclass
-├── ☕ DonationEntry.java # Donation record subclass
-└── ☕ FileHandler.java # Handles file operations (read, write, append)
+
+├── ☕ Main.java 
+
+├── ☕ Diary.java 
+
+├── ☕ RecordEntry.java 
+
+├── ☕ PetEntry.java 
+
+├── ☕ AdoptionEntry.java 
+
+├── ☕ DonationEntry.java 
+
+└── ☕ FileHandler.java 
 
 - `Main.java` – Entry point, handles user interactions and menu.
 - `Diary.java` – CRUD operations for all records.
