@@ -116,9 +116,13 @@ All records are stored in a plain text file: `furever_diary.txt`.
 
    
 Choose an option: 1
+
 Pet Name: Bella
+
 Species: Dog
+
 Age: 2
+
 ✅ Entry added successfully!
 
 
@@ -128,30 +132,10 @@ Age: 2
 
 1. Open a terminal in the `src/` folder.
 2. Compile the Java files:
-
-```bash
 javac fureverhome/*.java
 
-## ₊˚ ┊ Contributors
+## ₊˚ ┊ **Contributors**
 
-Lorenz Daniell Estiva
-Kieron Ann Lontoc
+Lorenz Daniell Estiva  
+Kieron Ann Lontoc  
 Annika Grace Mangubat
-
-₊˚ ┊ Future Enhancements
-
-Add user login/profiles
-
-GUI version with JavaFX or Swing
-
-Search functionality for pets or donors
-
-Analytics for donation amounts or adoption trends
-
-₊˚ ┊ References
-
-Java Documentation: https://docs.oracle.com/javase/8/docs/api/
-
-GitHub repositories on Java OOP examples
-
-Instructor guidelines for CS 211 Final Project
