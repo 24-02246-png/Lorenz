@@ -1,5 +1,16 @@
 # 🐾 FurEverHome
 
+<div align="center">
+
+<h3>Your console-based pet adoption-donation system.</h3>
+
+**IT 2110**  
+Estiva, Lorenz Daniell C.  
+Lontoc, Kieron Ann A.  
+Mangubat, Annika Grace P.
+
+</div>
+
 ---
 
 ## ₊˚ ┊ Overview
