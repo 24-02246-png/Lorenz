@@ -78,21 +78,23 @@ All records are stored in a plain text file: `furever_diary.txt`.
 
 🐾 Welcome to FurEverHome 🐾
 
-Add Pet for Adoption
+1. Add Pet for Adoption
 
-Record Adoption
+2. Record Adoption
 
-Record Donation
+3. Record Donation
 
-View Records
+4. View Records
 
-Modify Record
+5. Modify Record
 
-Delete Record
+6. Delete Record
 
-Insert Record
+7. Insert Record
 
-Exit
+8. Exit
+
+   
 Choose an option: 1
 Pet Name: Bella
 Species: Dog
@@ -110,11 +112,11 @@ Age: 2
 ```bash
 javac fureverhome/*.java
 
-₊˚ ┊ Contributors
+## ₊˚ ┊ Contributors
 
 Lorenz Daniell Estiva
-
-[Other Team Members if any]
+Kieron Ann Lontoc
+Annika Grace Mangubat
 
 ₊˚ ┊ Future Enhancements
 
